@@ -1,31 +1,13 @@
-## Taxibedrijf John Camion
+# Taxibedrijf John Camion
 
-# maar nu even MAPFRE input hier
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOlva0dwgnuLdJOz_U_GPd6t6oQQ05XAa3hmjuqdqa2DBUCQ/viewform?usp=pp_url&entry.771913914=Personenvervoer&entry.677900382=MAPFRE" width="640" height="1539" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+## Acties:
 
+pas mijn gegevens aan
 
-You can use the [editor on GitHub](https://github.com/wouterdhooghe/leverancier/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overzicht:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[overzicht](overzicht.html)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
